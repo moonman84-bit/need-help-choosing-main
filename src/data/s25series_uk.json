@@ -1,0 +1,342 @@
+{
+    "Galaxy S25 Ultra": {
+        "model": [
+            {
+                "sku": "SM-S938BAKDEUB",
+                "image": "https://images.samsung.com/is/image/samsung/assets/uk/2501/smartphones/galaxy-s25/compare-table/s25ultra_titanium-silverblue.png",
+                "priceDisplay": "£1,349.00"
+            }
+        ],
+        "introduction": [
+            {
+                "description": "The Ultimate Galaxy. Pro-grade camera, unmatched performance, and our very best galaxy yet.",
+                "frompricetext": "From"
+            }
+        ],
+        "display": [
+            {
+                "icon": "https://images.samsung.com/is/content/samsung/assets/uk/need_help_choosing/keyspecs-product-size-general-phone.svg",
+                "title": "Display"
+            }
+        ],
+        "camera": [
+            {
+                "icon": "https://images.samsung.com/is/content/samsung/assets/uk/need_help_choosing/keyspecs-camera-rear-galaxy-s25ultra.svg",
+                "title": "Wide-angle camera",
+                "ultrawidetext": "Ultra-wide angle",
+                "telephototext": "Telephoto lens",
+                "frontcameratext": "Front Camera"
+            }
+        ],
+        "battery": [
+            {
+                "icon": "https://images.samsung.com/is/content/samsung/assets/uk/need_help_choosing/keyspecs-common-battery.svg",
+                "title": "Battery",
+                "battery_capacity": "4000 mAh",
+                "description": "Up to 29 hours of video playback"
+            }
+        ],
+        "processor": [
+            {
+                "icon": "https://images.samsung.com/is/content/samsung/assets/uk/need_help_choosing/keyspecs-common-ap.svg",
+                "title": "Processor",
+                "description": "Snapdragon 8 Elite for Galaxy<br/>Up to 29 hours of video playback"
+            }
+        ],
+        "durability": [
+            {
+                "icon": "https://images.samsung.com/is/content/samsung/assets/uk/need_help_choosing/common-dura-armor-aluminum-frame-phone.svg",
+                "title": "Durability",
+                "water_resistance": "Water Resistance"
+            }
+        ],
+        "storage": [
+            {
+                "icon": "https://images.samsung.com/is/content/samsung/assets/uk/need_help_choosing/common-storage.svg",
+                "title": "Storage",
+                "storage_options": "256GB | 512GB | 1TB",
+                "memory_text": "Memory",
+                "memory_options": "12GB"
+            }
+        ],
+        "cta": [
+            {
+                "text": "Want to buy the Galaxy S25 Ultra?",
+                "buttontext": "Buy Now",
+                "link": "https://www.samsung.com/uk/"
+            }
+        ]
+    },
+    "Galaxy S25 Edge": {
+        "model": [
+            {
+                "sku": "SM-S937BZKDEUB",
+                "image": "https://images.samsung.com/is/image/samsung/assets/uk/smartphones/galaxy-s25/compare/images/s25edge_titanium-jetblack-v1.png",
+                "priceDisplay": "£1,199.00"
+            }
+        ],
+        "introduction": [
+            {
+                "description": "The compact and budget choice. Powerful and that's easy to carry and use one-handed.",
+                "frompricetext": "From"
+            }
+        ],
+        "display": [
+            {
+                "icon": "https://images.samsung.com/is/content/samsung/assets/uk/need_help_choosing/keyspecs-product-size-general-phone.svg",
+                "title": "Display"
+            }
+        ],
+        "camera": [
+            {
+                "icon": "https://images.samsung.com/is/content/samsung/assets/uk/need_help_choosing/keyspecs-camera-rear-galaxy-s24-s24plus.svg",
+                "title": "Wide-angle camera",
+                "ultrawidetext": "Ultra-wide angle",
+                "telephototext": "Telephoto lens",
+                "frontcameratext": "Front Camera"
+            }
+        ],
+        "battery": [
+            {
+                "icon": "https://images.samsung.com/is/content/samsung/assets/uk/need_help_choosing/keyspecs-common-battery.svg",
+                "title": "Battery",
+                "battery_capacity": "4000 mAh",
+                "description": "Up to 29 hours of video playback"
+            }
+        ],
+        "processor": [
+            {
+                "icon": "https://images.samsung.com/is/content/samsung/assets/uk/need_help_choosing/keyspecs-common-ap.svg",
+                "title": "Processor",
+                "description": "Snapdragon 8 Elite for Galaxy<br/>Up to 29 hours of video playback"
+            }
+        ],
+        "durability": [
+            {
+                "icon": "https://images.samsung.com/is/content/samsung/assets/uk/need_help_choosing/common-dura-armor-aluminum-frame-phone.svg",
+                "title": "Durability",
+                "water_resistance": "Water Resistance"
+            }
+        ],
+        "storage": [
+            {
+                "icon": "https://images.samsung.com/is/content/samsung/assets/uk/need_help_choosing/common-storage.svg",
+                "title": "Storage",
+                "storage_options": "256GB | 512GB | 1TB",
+                "memory_text": "Memory",
+                "memory_options": "12GB"
+            }
+        ],
+        "cta": [
+            {
+                "text": "Want to buy the Galaxy S25 Edge?",
+                "buttontext": "Buy Now",
+                "link": "https://www.samsung.com/uk/"
+            }
+        ]
+    },
+    "Galaxy S25+": {
+        "model": [
+            {
+                "sku": "SM-S936BLBDEUB",
+                "image": "https://images.samsung.com/is/image/samsung/assets/uk/2501/smartphones/galaxy-s25/compare-table/s25plus_navy.png",
+                "priceDisplay": "£999.00"
+            }
+        ],
+        "introduction": [
+            {
+                "description": "Premium experience, advanced camera, and seamless everyday performance.",
+                "frompricetext": "From"
+            }
+        ],
+        "display": [
+            {
+                "icon": "https://images.samsung.com/is/content/samsung/assets/uk/need_help_choosing/keyspecs-product-size-general-phone.svg",
+                "title": "Display"
+            }
+        ],
+        "camera": [
+            {
+                "icon": "https://images.samsung.com/is/content/samsung/assets/uk/need_help_choosing/keyspecs-camera-rear-galaxy-s24-s24plus.svg",
+                "title": "Wide-angle camera",
+                "ultrawidetext": "Ultra-wide angle",
+                "telephototext": "Telephoto lens",
+                "frontcameratext": "Front Camera"
+            }
+        ],
+        "battery": [
+            {
+                "icon": "https://images.samsung.com/is/content/samsung/assets/uk/need_help_choosing/keyspecs-common-battery.svg",
+                "title": "Battery",
+                "battery_capacity": "4000 mAh",
+                "description": "Up to 29 hours of video playback"
+            }
+        ],
+        "processor": [
+            {
+                "icon": "https://images.samsung.com/is/content/samsung/assets/uk/need_help_choosing/keyspecs-common-ap.svg",
+                "title": "Processor",
+                "description": "Snapdragon 8 Elite for Galaxy<br/>Up to 29 hours of video playback"
+            }
+        ],
+        "durability": [
+            {
+                "icon": "https://images.samsung.com/is/content/samsung/assets/uk/need_help_choosing/common-dura-armor-aluminum-frame-phone.svg",
+                "title": "Durability",
+                "water_resistance": "Water Resistance"
+            }
+        ],
+        "storage": [
+            {
+                "icon": "https://images.samsung.com/is/content/samsung/assets/uk/need_help_choosing/common-storage.svg",
+                "title": "Storage",
+                "storage_options": "256GB | 512GB",
+                "memory_text": "Memory",
+                "memory_options": "12GB"
+            }
+        ],
+        "cta": [
+            {
+                "text": "Want to buy the Galaxy S25+?",
+                "buttontext": "Buy Now",
+                "link": "https://www.samsung.com/uk/"
+            }
+        ]
+    },
+    "Galaxy S25": {
+        "model": [
+            {
+                "sku": "SM-S931BLBDEUB",
+                "image": "https://images.samsung.com/is/image/samsung/assets/uk/2501/smartphones/galaxy-s25/compare-table/s25_navy.png",
+                "priceDisplay": "£859.00"
+            }
+        ],
+        "introduction": [
+            {
+                "description": "The compact and budget choice. Powerful and that's easy to carry and use one-handed.",
+                "frompricetext": "From"
+            }
+        ],
+        "display": [
+            {
+                "icon": "https://images.samsung.com/is/content/samsung/assets/uk/need_help_choosing/keyspecs-product-size-general-phone.svg",
+                "title": "Display"
+            }
+        ],
+        "camera": [
+            {
+                "icon": "https://images.samsung.com/is/content/samsung/assets/uk/need_help_choosing/keyspecs-camera-rear-galaxy-s24-s24plus.svg",
+                "title": "Wide-angle camera",
+                "ultrawidetext": "Ultra-wide angle",
+                "telephototext": "Telephoto lens",
+                "frontcameratext": "Front Camera"
+            }
+        ],
+        "battery": [
+            {
+                "icon": "https://images.samsung.com/is/content/samsung/assets/uk/need_help_choosing/keyspecs-common-battery.svg",
+                "title": "Battery",
+                "battery_capacity": "4000 mAh",
+                "description": "Up to 29 hours of video playback"
+            }
+        ],
+        "processor": [
+            {
+                "icon": "https://images.samsung.com/is/content/samsung/assets/uk/need_help_choosing/keyspecs-common-ap.svg",
+                "title": "Processor",
+                "description": "Snapdragon 8 Elite for Galaxy<br/>Up to 29 hours of video playback"
+            }
+        ],
+        "durability": [
+            {
+                "icon": "https://images.samsung.com/is/content/samsung/assets/uk/need_help_choosing/common-dura-armor-aluminum-frame-phone.svg",
+                "title": "Durability",
+                "water_resistance": "Water Resistance"
+            }
+        ],
+        "storage": [
+            {
+                "icon": "https://images.samsung.com/is/content/samsung/assets/uk/need_help_choosing/common-storage.svg",
+                "title": "Storage",
+                "storage_options": "128GB | 256GB | 512GB",
+                "memory_text": "Memory",
+                "memory_options": "12GB"
+            }
+        ],
+        "cta": [
+            {
+                "text": "Want to buy the Galaxy S25?",
+                "buttontext": "Buy Now",
+                "link": "https://www.samsung.com/uk/"
+            }
+        ]
+    },
+    "Galaxy S25 FE": {
+        "model": [
+            {
+                "sku": "SM-S731BDBDEUB",
+                "image": "https://images.samsung.com/is/image/samsung/assets/uk/buypage/compare/S25FE_navy_360x360.png",
+                "priceDisplay": "£649.00"
+            }
+        ],
+        "introduction": [
+            {
+                "description": "The compact and budget choice. Powerful and that's easy to carry and use one-handed.",
+                "frompricetext": "From"
+            }
+        ],
+        "display": [
+            {
+                "icon": "https://images.samsung.com/is/content/samsung/assets/uk/need_help_choosing/keyspecs-product-size-general-phone.svg",
+                "title": "Display"
+            }
+        ],
+        "camera": [
+            {
+                "icon": "https://images.samsung.com/is/content/samsung/assets/uk/need_help_choosing/keyspecs-camera-rear-galaxy-s24-s24plus.svg",
+                "title": "Wide-angle camera",
+                "ultrawidetext": "Ultra-wide angle",
+                "telephototext": "Telephoto lens",
+                "frontcameratext": "Front Camera"
+            }
+        ],
+        "battery": [
+            {
+                "icon": "https://images.samsung.com/is/content/samsung/assets/uk/need_help_choosing/keyspecs-common-battery.svg",
+                "title": "Battery",
+                "battery_capacity": "4000 mAh",
+                "description": "Up to 29 hours of video playback"
+            }
+        ],
+        "processor": [
+            {
+                "icon": "https://images.samsung.com/is/content/samsung/assets/uk/need_help_choosing/keyspecs-common-ap.svg",
+                "title": "Processor",
+                "description": "Snapdragon 8 Elite for Galaxy<br/>Up to 29 hours of video playback"
+            }
+        ],
+        "durability": [
+            {
+                "icon": "https://images.samsung.com/is/content/samsung/assets/uk/need_help_choosing/common-dura-armor-aluminum-frame-phone.svg",
+                "title": "Durability",
+                "water_resistance": "Water Resistance"
+            }
+        ],
+        "storage": [
+            {
+                "icon": "https://images.samsung.com/is/content/samsung/assets/uk/need_help_choosing/common-storage.svg",
+                "title": "Storage",
+                "storage_options": "128GB | 256GB | 512GB",
+                "memory_text": "Memory",
+                "memory_options": "8GB"
+            }
+        ],
+        "cta": [
+            {
+                "text": "Want to buy the Galaxy S25 FE?",
+                "buttontext": "Buy Now",
+                "link": "https://www.samsung.com/uk/"
+            }
+        ]
+    }
+}

@@ -1,3 +1,5 @@
+### Need Help Choosing Device project
+
 The project was created to display a comparison table in a popup to allow customers the opportunity to assess their choices before buying. 
 
 ################################################
